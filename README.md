@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Shed Corp
 
-## Getting Started
+![Cover Image](/public/shedflow-main.png)
+
+This is a project for the MLH Global Hack week 2023
+
+We have a dream to empower people to create their own bodies and live healthily. With our idea we decided to build this application that helps people select health plans with a blog on why they should be health conscious
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 

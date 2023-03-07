@@ -1,0 +1,2 @@
+flask-restful
+Flask~=2.2.3

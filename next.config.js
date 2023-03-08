@@ -4,7 +4,7 @@ module.exports = () => {
     return [
       {
         source: "/hello/:path*",
-        destination: "http://localhost:5000/hello/:path*",
+        destination: "http://127.0.0.1:5000/api/hello/:path*",
       },
     ];
   };

@@ -9,7 +9,11 @@ parser.add_argument('task')
 
 class Message(Resource):
     def get(self):
-        return {"message": 'Hello World'}
+        response_body = {
+            "name": "Responder",
+            "message": "Hello World!"
+        }
+        return response_body
 
 
 api.add_resource(Message, '/api/hello')

@@ -1,2 +1,7 @@
 flask-restful
 Flask~=2.2.3
+SQLAlchemy~=2.0.5.post1
+Flask-SQLAlchemy==3.0.2
+Faker~=17.6.0
+dotenv
+MySQLdb
